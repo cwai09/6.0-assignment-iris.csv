@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 
 st.header("App1: Non-Show Guest Today")
